@@ -12,8 +12,8 @@ type Dessert = {
 const desserts: Dessert[] = [
   { id: 1, name: "Pateles", desc: "Porciones individuales y grandes", price: "$800", image: "/images/Menu5.jpg" },
   { id: 2, name: "Donas y variedad de pan", desc: "Base crujiente y topping casero", price: "$60", image: "/images/Menu6.jpg" },
-  { id: 3, name: "Pies", desc: "Costra crujiente y relleno dulce", price: "$120", image: "/images/Menu7.jpg" },
-  { id: 4, name: "Quequitos", desc: "Caseros y deliciosos", price: "$100", image: "/images/Menu8.jpg" },
+  { id: 3, name: "Pays", desc: "Costra crujiente y relleno dulce", price: "$120", image: "/images/Menu7.jpg" },
+  { id: 4, name: "Cupcackes", desc: "Caseros y deliciosos", price: "$100", image: "/images/Menu8.jpg" },
 ];
 
 export default function App(): JSX.Element {
